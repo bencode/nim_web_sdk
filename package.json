@@ -1,0 +1,15 @@
+{
+  "name": "nim_web_sdk",
+  "version": "6.1.2",
+  "description": "npm package for nim_web_sdk",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bencode/nim_web_sdk.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bencode/nim_web_sdk/issues"
+  },
+  "homepage": "https://github.com/bencode/nim_web_sdk#readme"
+}
